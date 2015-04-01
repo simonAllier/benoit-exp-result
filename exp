@@ -33,24 +33,97 @@ exp/results/ 0.06 4 4 8 OK
 exp/results/ 0.07 4 4 8 OK
 exp/results/ 0.08 4 4 8 OK
 exp/results/ 0.01 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.02 4 4 9 OK
+exp/results/ 0.03 4 4 9 OK
+exp/results/ 0.04 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.05 4 4 9 OK
+exp/results/ 0.06 4 4 9 OK
+exp/results/ 0.07 4 4 9 OK
+<<<<<<< HEAD OK
+======= OK
+exp/results/ 0.08 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.01 4 4 10 OK
+=======
+======= OK
+exp/results/ 0.05 4 4 9 OK
+exp/results/ 0.06 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.07 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.08 4 4 9 OK
+=======
+=======
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git OK
+exp/results/ 0.08 4 4 9 OK
+======= OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+exp/results/ 0.07 4 4 9 OK
+exp/results/ 0.08 4 4 9 OK
+<<<<<<< HEAD OK
+exp/results/ 0.01 4 4 10 OK
+======= OK
+<<<<<<< HEAD OK
+<<<<<<< HEAD OK
+exp/results/ 0.01 4 4 10 OK
+======= OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git OK
+exp/results/ 0.01 4 4 10 OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+exp/results/ 0.02 4 4 10
+=======
 exp/results/ 0.02 4 4 9 OK
 exp/results/ 0.03 4 4 9 OK
 exp/results/ 0.04 4 4 9 OK
 exp/results/ 0.05 4 4 9 OK
 exp/results/ 0.06 4 4 9 OK
 exp/results/ 0.07 4 4 9 OK
+<<<<<<< HEAD
+<<<<<<< HEAD
+exp/results/ 0.08 4 4 9
+exp/results/ 0.01 4 4 10
+exp/results/ 0.02 4 4 10
+=======
+exp/results/ 0.08 4 4 9 OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+=======
 <<<<<<< HEAD OK
 exp/results/ 0.08 4 4 9 OK
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+=======
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+=======
+=======
 ======= OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
 exp/results/ 0.08 4 4 9 OK
 <<<<<<< HEAD OK
 exp/results/ 0.01 4 4 10 OK
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD OK
 exp/results/ 0.02 4 4 10 OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
 exp/results/ 0.03 4 4 10
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
 =======
 exp/results/ 0.02 4 4 10 OK
 exp/results/ 0.03 4 4 10 OK
+<<<<<<< HEAD
+exp/results/ 0.04 4 4 10 OK
+======= OK
+=======
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
 <<<<<<< HEAD OK
 ======= OK
 exp/results/ 0.04 4 4 10 OK
@@ -66,6 +139,14 @@ exp/results/ 0.03 4 4 10
 <<<<<<< HEAD OK
 exp/results/ 0.03 4 4 10 OK
 >>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git OK
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+exp/results/ 0.01 4 4 10
+>>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
+exp/results/ 0.02 4 4 10
+exp/results/ 0.03 4 4 10
+=======
 >>>>>>> branch 'master' of https://github.com/simonAllier/benoit-exp-result.git
 exp/results/ 0.04 4 4 10
 =======
