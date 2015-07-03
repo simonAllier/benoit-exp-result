@@ -11,7 +11,7 @@ dif = np.array([1, 1.2, 1.5, 2, 3, 5])
 fic = open("exp", "w")
 
 for d0 in range(4,17):
-	for d1 in range(4,d0):
+	for d1 in range(4,d0+1):
 		for taille_patch in range(2,24,2):
 			for c_p in cp:
 				for d in dif:
