@@ -2,7 +2,8 @@ import numpy as np
 import os
 import sys
 
-dir = sys.argv[1]
+#dir = sys.argv[1]
+dir = '/media/bgauzens/data/programmes/plantes/simu_interac/simus/simus/benoit-exp-result/'
 os.chdir(dir)
 
 rep = "exp/results/"
@@ -20,8 +21,7 @@ for d0 in range(4,17):
 					line = rep + ' ' + str(c_p) + ' ' + str(d0) + ' ' + str(d1) + ' ' + str(taille_patch) + ' ' + str(d) + ' ' + '5' + ' ' + str(graine) + '\n'
 					fic.write(line)
 					graine = graine +1
-					if graine == 30000:
-						graine = 1
+
 
 
 fic.close()
