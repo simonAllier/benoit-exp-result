@@ -1,9 +1,11 @@
 import numpy as np
 import os
+import sys
 
-os.chdir("/media/bgauzens/data/programmes/plantes/simu_interac/simus/simus/benoit-exp-result/")
+dir = sys.argv[1]
+os.chdir(dir)
 
-rep = "exp/results"
+rep = "exp/results/"
 #cp = np.arange(0.01, 0.08, 0.01)
 cp  = np.arange(0.0, 0.04, 0.002)
 dif = np.array([1, 1.2, 1.5, 2, 3, 5])
