@@ -3818,6 +3818,6 @@ exp/results/ 0.028 16 16 22 3 5 120089 OK
 exp/results/ 0.028 16 16 22 5 5 120090 OK
 exp/results/ 0.03 16 16 22 1 5 120091 OK
 exp/results/ 0.03 16 16 22 1.5 5 120093 OK
-exp/results/ 0.032 16 16 22 1.2 5 120098
-exp/results/ 0.036 16 16 22 5 5 120114
-exp/results/ 0.038 16 16 22 1.2 5 120116
+exp/results/ 0.032 16 16 22 1.2 5 120098 OK
+exp/results/ 0.036 16 16 22 5 5 120114 OK
+exp/results/ 0.038 16 16 22 1.2 5 120116 OK
