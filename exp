@@ -1698,16 +1698,16 @@ exp/results/ 0.004 16 11 6 1.5 5 112455 OK
 exp/results/ 0.006 16 11 6 1.2 5 112460 OK
 exp/results/ 0.012 16 11 6 1.5 5 112479 OK
 exp/results/ 0.012 16 11 6 5 5 112482 OK
-exp/results/ 0.014 16 11 6 1.2 5 112484
-exp/results/ 0.014 16 11 6 1.5 5 112485
-exp/results/ 0.014 16 11 6 2 5 112486
-exp/results/ 0.014 16 11 6 3 5 112487
-exp/results/ 0.014 16 11 6 5 5 112488
-exp/results/ 0.016 16 11 6 1 5 112489
-exp/results/ 0.016 16 11 6 1.5 5 112491
-exp/results/ 0.02 16 11 6 1.2 5 112502
-exp/results/ 0.022 16 11 6 1.2 5 112508
-exp/results/ 0.022 16 11 6 1.5 5 112509
+exp/results/ 0.014 16 11 6 1.2 5 112484 OK
+exp/results/ 0.014 16 11 6 1.5 5 112485 OK
+exp/results/ 0.014 16 11 6 2 5 112486 OK
+exp/results/ 0.014 16 11 6 3 5 112487 OK
+exp/results/ 0.014 16 11 6 5 5 112488 OK
+exp/results/ 0.016 16 11 6 1 5 112489 OK
+exp/results/ 0.016 16 11 6 1.5 5 112491 OK
+exp/results/ 0.02 16 11 6 1.2 5 112502 OK
+exp/results/ 0.022 16 11 6 1.2 5 112508 OK
+exp/results/ 0.022 16 11 6 1.5 5 112509 OK
 exp/results/ 0.024 16 11 6 1.2 5 112514
 exp/results/ 0.024 16 11 6 1.5 5 112515
 exp/results/ 0.024 16 11 6 2 5 112516
