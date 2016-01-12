@@ -1888,16 +1888,16 @@ exp/results/ 0.016 5 3 18 1.5 5 1887 OK
 exp/results/ 0.016 5 3 18 2.0 5 1888 OK
 exp/results/ 0.016 5 3 18 3.0 5 1889 OK
 exp/results/ 0.016 5 3 18 5.0 5 1890 OK
-exp/results/ 0.024 5 3 18 1.0 5 1891
-exp/results/ 0.024 5 3 18 1.2 5 1892
-exp/results/ 0.024 5 3 18 1.5 5 1893
-exp/results/ 0.024 5 3 18 2.0 5 1894
-exp/results/ 0.024 5 3 18 3.0 5 1895
-exp/results/ 0.024 5 3 18 5.0 5 1896
-exp/results/ 0.032 5 3 18 1.0 5 1897
-exp/results/ 0.032 5 3 18 1.2 5 1898
-exp/results/ 0.032 5 3 18 1.5 5 1899
-exp/results/ 0.032 5 3 18 2.0 5 1900
+exp/results/ 0.024 5 3 18 1.0 5 1891 OK
+exp/results/ 0.024 5 3 18 1.2 5 1892 OK
+exp/results/ 0.024 5 3 18 1.5 5 1893 OK
+exp/results/ 0.024 5 3 18 2.0 5 1894 OK
+exp/results/ 0.024 5 3 18 3.0 5 1895 OK
+exp/results/ 0.024 5 3 18 5.0 5 1896 OK
+exp/results/ 0.032 5 3 18 1.0 5 1897 OK
+exp/results/ 0.032 5 3 18 1.2 5 1898 OK
+exp/results/ 0.032 5 3 18 1.5 5 1899 OK
+exp/results/ 0.032 5 3 18 2.0 5 1900 OK
 exp/results/ 0.032 5 3 18 3.0 5 1901
 exp/results/ 0.032 5 3 18 5.0 5 1902
 exp/results/ 0.04 5 3 18 1.0 5 1903
