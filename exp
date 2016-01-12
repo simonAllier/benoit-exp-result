@@ -1898,66 +1898,66 @@ exp/results/ 0.032 5 3 18 1.0 5 1897 OK
 exp/results/ 0.032 5 3 18 1.2 5 1898 OK
 exp/results/ 0.032 5 3 18 1.5 5 1899 OK
 exp/results/ 0.032 5 3 18 2.0 5 1900 OK
-exp/results/ 0.032 5 3 18 3.0 5 1901
-exp/results/ 0.032 5 3 18 5.0 5 1902
-exp/results/ 0.04 5 3 18 1.0 5 1903
-exp/results/ 0.04 5 3 18 1.2 5 1904
-exp/results/ 0.04 5 3 18 1.5 5 1905
-exp/results/ 0.04 5 3 18 2.0 5 1906
-exp/results/ 0.04 5 3 18 3.0 5 1907
-exp/results/ 0.04 5 3 18 5.0 5 1908
-exp/results/ 0.0 5 3 20 1.0 5 1909
-exp/results/ 0.0 5 3 20 1.2 5 1910
-exp/results/ 0.0 5 3 20 1.5 5 1911
-exp/results/ 0.0 5 3 20 2.0 5 1912
-exp/results/ 0.0 5 3 20 3.0 5 1913
-exp/results/ 0.0 5 3 20 5.0 5 1914
-exp/results/ 0.008 5 3 20 1.0 5 1915
-exp/results/ 0.008 5 3 20 1.2 5 1916
-exp/results/ 0.008 5 3 20 1.5 5 1917
-exp/results/ 0.008 5 3 20 2.0 5 1918
-exp/results/ 0.008 5 3 20 3.0 5 1919
-exp/results/ 0.008 5 3 20 5.0 5 1920
-exp/results/ 0.016 5 3 20 1.0 5 1921
-exp/results/ 0.016 5 3 20 1.2 5 1922
-exp/results/ 0.016 5 3 20 1.5 5 1923
-exp/results/ 0.016 5 3 20 2.0 5 1924
-exp/results/ 0.016 5 3 20 3.0 5 1925
-exp/results/ 0.016 5 3 20 5.0 5 1926
-exp/results/ 0.024 5 3 20 1.0 5 1927
-exp/results/ 0.024 5 3 20 1.2 5 1928
-exp/results/ 0.024 5 3 20 1.5 5 1929
-exp/results/ 0.024 5 3 20 2.0 5 1930
-exp/results/ 0.024 5 3 20 3.0 5 1931
-exp/results/ 0.024 5 3 20 5.0 5 1932
-exp/results/ 0.032 5 3 20 1.0 5 1933
-exp/results/ 0.032 5 3 20 1.2 5 1934
-exp/results/ 0.032 5 3 20 1.5 5 1935
-exp/results/ 0.032 5 3 20 2.0 5 1936
-exp/results/ 0.032 5 3 20 3.0 5 1937
-exp/results/ 0.032 5 3 20 5.0 5 1938
-exp/results/ 0.04 5 3 20 1.0 5 1939
-exp/results/ 0.04 5 3 20 1.2 5 1940
-exp/results/ 0.04 5 3 20 1.5 5 1941
-exp/results/ 0.04 5 3 20 2.0 5 1942
-exp/results/ 0.04 5 3 20 3.0 5 1943
-exp/results/ 0.04 5 3 20 5.0 5 1944
-exp/results/ 0.0 5 3 22 1.0 5 1945
-exp/results/ 0.0 5 3 22 1.2 5 1946
-exp/results/ 0.0 5 3 22 1.5 5 1947
-exp/results/ 0.0 5 3 22 2.0 5 1948
-exp/results/ 0.0 5 3 22 3.0 5 1949
-exp/results/ 0.0 5 3 22 5.0 5 1950
-exp/results/ 0.008 5 3 22 1.0 5 1951
-exp/results/ 0.008 5 3 22 1.2 5 1952
-exp/results/ 0.008 5 3 22 1.5 5 1953
-exp/results/ 0.008 5 3 22 2.0 5 1954
-exp/results/ 0.008 5 3 22 3.0 5 1955
-exp/results/ 0.008 5 3 22 5.0 5 1956
-exp/results/ 0.016 5 3 22 1.0 5 1957
-exp/results/ 0.016 5 3 22 1.2 5 1958
-exp/results/ 0.016 5 3 22 1.5 5 1959
-exp/results/ 0.016 5 3 22 2.0 5 1960
+exp/results/ 0.032 5 3 18 3.0 5 1901 OK
+exp/results/ 0.032 5 3 18 5.0 5 1902 OK
+exp/results/ 0.04 5 3 18 1.0 5 1903 OK
+exp/results/ 0.04 5 3 18 1.2 5 1904 OK
+exp/results/ 0.04 5 3 18 1.5 5 1905 OK
+exp/results/ 0.04 5 3 18 2.0 5 1906 OK
+exp/results/ 0.04 5 3 18 3.0 5 1907 OK
+exp/results/ 0.04 5 3 18 5.0 5 1908 OK
+exp/results/ 0.0 5 3 20 1.0 5 1909 OK
+exp/results/ 0.0 5 3 20 1.2 5 1910 OK
+exp/results/ 0.0 5 3 20 1.5 5 1911 OK
+exp/results/ 0.0 5 3 20 2.0 5 1912 OK
+exp/results/ 0.0 5 3 20 3.0 5 1913 OK
+exp/results/ 0.0 5 3 20 5.0 5 1914 OK
+exp/results/ 0.008 5 3 20 1.0 5 1915 OK
+exp/results/ 0.008 5 3 20 1.2 5 1916 OK
+exp/results/ 0.008 5 3 20 1.5 5 1917 OK
+exp/results/ 0.008 5 3 20 2.0 5 1918 OK
+exp/results/ 0.008 5 3 20 3.0 5 1919 OK
+exp/results/ 0.008 5 3 20 5.0 5 1920 OK
+exp/results/ 0.016 5 3 20 1.0 5 1921 OK
+exp/results/ 0.016 5 3 20 1.2 5 1922 OK
+exp/results/ 0.016 5 3 20 1.5 5 1923 OK
+exp/results/ 0.016 5 3 20 2.0 5 1924 OK
+exp/results/ 0.016 5 3 20 3.0 5 1925 OK
+exp/results/ 0.016 5 3 20 5.0 5 1926 OK
+exp/results/ 0.024 5 3 20 1.0 5 1927 OK
+exp/results/ 0.024 5 3 20 1.2 5 1928 OK
+exp/results/ 0.024 5 3 20 1.5 5 1929 OK
+exp/results/ 0.024 5 3 20 2.0 5 1930 OK
+exp/results/ 0.024 5 3 20 3.0 5 1931 OK
+exp/results/ 0.024 5 3 20 5.0 5 1932 OK
+exp/results/ 0.032 5 3 20 1.0 5 1933 OK
+exp/results/ 0.032 5 3 20 1.2 5 1934 OK
+exp/results/ 0.032 5 3 20 1.5 5 1935 OK
+exp/results/ 0.032 5 3 20 2.0 5 1936 OK
+exp/results/ 0.032 5 3 20 3.0 5 1937 OK
+exp/results/ 0.032 5 3 20 5.0 5 1938 OK
+exp/results/ 0.04 5 3 20 1.0 5 1939 OK
+exp/results/ 0.04 5 3 20 1.2 5 1940 OK
+exp/results/ 0.04 5 3 20 1.5 5 1941 OK
+exp/results/ 0.04 5 3 20 2.0 5 1942 OK
+exp/results/ 0.04 5 3 20 3.0 5 1943 OK
+exp/results/ 0.04 5 3 20 5.0 5 1944 OK
+exp/results/ 0.0 5 3 22 1.0 5 1945 OK
+exp/results/ 0.0 5 3 22 1.2 5 1946 OK
+exp/results/ 0.0 5 3 22 1.5 5 1947 OK
+exp/results/ 0.0 5 3 22 2.0 5 1948 OK
+exp/results/ 0.0 5 3 22 3.0 5 1949 OK
+exp/results/ 0.0 5 3 22 5.0 5 1950 OK
+exp/results/ 0.008 5 3 22 1.0 5 1951 OK
+exp/results/ 0.008 5 3 22 1.2 5 1952 OK
+exp/results/ 0.008 5 3 22 1.5 5 1953 OK
+exp/results/ 0.008 5 3 22 2.0 5 1954 OK
+exp/results/ 0.008 5 3 22 3.0 5 1955 OK
+exp/results/ 0.008 5 3 22 5.0 5 1956 OK
+exp/results/ 0.016 5 3 22 1.0 5 1957 OK
+exp/results/ 0.016 5 3 22 1.2 5 1958 OK
+exp/results/ 0.016 5 3 22 1.5 5 1959 OK
+exp/results/ 0.016 5 3 22 2.0 5 1960 OK
 exp/results/ 0.016 5 3 22 3.0 5 1961
 exp/results/ 0.016 5 3 22 5.0 5 1962
 exp/results/ 0.024 5 3 22 1.0 5 1963
