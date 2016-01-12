@@ -1988,16 +1988,16 @@ exp/results/ 0.008 5 4 2 1.0 5 1987 OK
 exp/results/ 0.008 5 4 2 1.2 5 1988 OK
 exp/results/ 0.008 5 4 2 1.5 5 1989 OK
 exp/results/ 0.008 5 4 2 2.0 5 1990 OK
-exp/results/ 0.008 5 4 2 3.0 5 1991
-exp/results/ 0.008 5 4 2 5.0 5 1992
-exp/results/ 0.016 5 4 2 1.0 5 1993
-exp/results/ 0.016 5 4 2 1.2 5 1994
-exp/results/ 0.016 5 4 2 1.5 5 1995
-exp/results/ 0.016 5 4 2 2.0 5 1996
-exp/results/ 0.016 5 4 2 3.0 5 1997
-exp/results/ 0.016 5 4 2 5.0 5 1998
-exp/results/ 0.024 5 4 2 1.0 5 1999
-exp/results/ 0.024 5 4 2 1.2 5 2000
+exp/results/ 0.008 5 4 2 3.0 5 1991 OK
+exp/results/ 0.008 5 4 2 5.0 5 1992 OK
+exp/results/ 0.016 5 4 2 1.0 5 1993 OK
+exp/results/ 0.016 5 4 2 1.2 5 1994 OK
+exp/results/ 0.016 5 4 2 1.5 5 1995 OK
+exp/results/ 0.016 5 4 2 2.0 5 1996 OK
+exp/results/ 0.016 5 4 2 3.0 5 1997 OK
+exp/results/ 0.016 5 4 2 5.0 5 1998 OK
+exp/results/ 0.024 5 4 2 1.0 5 1999 OK
+exp/results/ 0.024 5 4 2 1.2 5 2000 OK
 exp/results/ 0.024 5 4 2 1.5 5 2001
 exp/results/ 0.024 5 4 2 2.0 5 2002
 exp/results/ 0.024 5 4 2 3.0 5 2003
