@@ -1968,16 +1968,16 @@ exp/results/ 0.024 5 3 22 3.0 5 1967 OK
 exp/results/ 0.024 5 3 22 5.0 5 1968 OK
 exp/results/ 0.032 5 3 22 1.0 5 1969 OK
 exp/results/ 0.032 5 3 22 1.2 5 1970 OK
-exp/results/ 0.032 5 3 22 1.5 5 1971
-exp/results/ 0.032 5 3 22 2.0 5 1972
-exp/results/ 0.032 5 3 22 3.0 5 1973
-exp/results/ 0.032 5 3 22 5.0 5 1974
-exp/results/ 0.04 5 3 22 1.0 5 1975
-exp/results/ 0.04 5 3 22 1.2 5 1976
-exp/results/ 0.04 5 3 22 1.5 5 1977
-exp/results/ 0.04 5 3 22 2.0 5 1978
-exp/results/ 0.04 5 3 22 3.0 5 1979
-exp/results/ 0.04 5 3 22 5.0 5 1980
+exp/results/ 0.032 5 3 22 1.5 5 1971 OK
+exp/results/ 0.032 5 3 22 2.0 5 1972 OK
+exp/results/ 0.032 5 3 22 3.0 5 1973 OK
+exp/results/ 0.032 5 3 22 5.0 5 1974 OK
+exp/results/ 0.04 5 3 22 1.0 5 1975 OK
+exp/results/ 0.04 5 3 22 1.2 5 1976 OK
+exp/results/ 0.04 5 3 22 1.5 5 1977 OK
+exp/results/ 0.04 5 3 22 2.0 5 1978 OK
+exp/results/ 0.04 5 3 22 3.0 5 1979 OK
+exp/results/ 0.04 5 3 22 5.0 5 1980 OK
 exp/results/ 0.0 5 4 2 1.0 5 1981
 exp/results/ 0.0 5 4 2 1.2 5 1982
 exp/results/ 0.0 5 4 2 1.5 5 1983
