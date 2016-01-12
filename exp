@@ -1958,126 +1958,126 @@ exp/results/ 0.016 5 3 22 1.0 5 1957 OK
 exp/results/ 0.016 5 3 22 1.2 5 1958 OK
 exp/results/ 0.016 5 3 22 1.5 5 1959 OK
 exp/results/ 0.016 5 3 22 2.0 5 1960 OK
-exp/results/ 0.016 5 3 22 3.0 5 1961
-exp/results/ 0.016 5 3 22 5.0 5 1962
-exp/results/ 0.024 5 3 22 1.0 5 1963
-exp/results/ 0.024 5 3 22 1.2 5 1964
-exp/results/ 0.024 5 3 22 1.5 5 1965
-exp/results/ 0.024 5 3 22 2.0 5 1966
-exp/results/ 0.024 5 3 22 3.0 5 1967
-exp/results/ 0.024 5 3 22 5.0 5 1968
-exp/results/ 0.032 5 3 22 1.0 5 1969
-exp/results/ 0.032 5 3 22 1.2 5 1970
-exp/results/ 0.032 5 3 22 1.5 5 1971
-exp/results/ 0.032 5 3 22 2.0 5 1972
-exp/results/ 0.032 5 3 22 3.0 5 1973
-exp/results/ 0.032 5 3 22 5.0 5 1974
-exp/results/ 0.04 5 3 22 1.0 5 1975
-exp/results/ 0.04 5 3 22 1.2 5 1976
-exp/results/ 0.04 5 3 22 1.5 5 1977
-exp/results/ 0.04 5 3 22 2.0 5 1978
-exp/results/ 0.04 5 3 22 3.0 5 1979
-exp/results/ 0.04 5 3 22 5.0 5 1980
-exp/results/ 0.0 5 4 2 1.0 5 1981
-exp/results/ 0.0 5 4 2 1.2 5 1982
-exp/results/ 0.0 5 4 2 1.5 5 1983
-exp/results/ 0.0 5 4 2 2.0 5 1984
-exp/results/ 0.0 5 4 2 3.0 5 1985
-exp/results/ 0.0 5 4 2 5.0 5 1986
-exp/results/ 0.008 5 4 2 1.0 5 1987
-exp/results/ 0.008 5 4 2 1.2 5 1988
-exp/results/ 0.008 5 4 2 1.5 5 1989
-exp/results/ 0.008 5 4 2 2.0 5 1990
-exp/results/ 0.008 5 4 2 3.0 5 1991
-exp/results/ 0.008 5 4 2 5.0 5 1992
-exp/results/ 0.016 5 4 2 1.0 5 1993
-exp/results/ 0.016 5 4 2 1.2 5 1994
-exp/results/ 0.016 5 4 2 1.5 5 1995
-exp/results/ 0.016 5 4 2 2.0 5 1996
-exp/results/ 0.016 5 4 2 3.0 5 1997
-exp/results/ 0.016 5 4 2 5.0 5 1998
-exp/results/ 0.024 5 4 2 1.0 5 1999
-exp/results/ 0.024 5 4 2 1.2 5 2000
-exp/results/ 0.024 5 4 2 1.5 5 2001
-exp/results/ 0.024 5 4 2 2.0 5 2002
-exp/results/ 0.024 5 4 2 3.0 5 2003
-exp/results/ 0.024 5 4 2 5.0 5 2004
-exp/results/ 0.032 5 4 2 1.0 5 2005
-exp/results/ 0.032 5 4 2 1.2 5 2006
-exp/results/ 0.032 5 4 2 1.5 5 2007
-exp/results/ 0.032 5 4 2 2.0 5 2008
-exp/results/ 0.032 5 4 2 3.0 5 2009
-exp/results/ 0.032 5 4 2 5.0 5 2010
-exp/results/ 0.04 5 4 2 1.0 5 2011
-exp/results/ 0.04 5 4 2 1.2 5 2012
-exp/results/ 0.04 5 4 2 1.5 5 2013
-exp/results/ 0.04 5 4 2 2.0 5 2014
-exp/results/ 0.04 5 4 2 3.0 5 2015
-exp/results/ 0.04 5 4 2 5.0 5 2016
-exp/results/ 0.0 5 4 4 1.0 5 2017
-exp/results/ 0.0 5 4 4 1.2 5 2018
-exp/results/ 0.0 5 4 4 1.5 5 2019
-exp/results/ 0.0 5 4 4 2.0 5 2020
-exp/results/ 0.0 5 4 4 3.0 5 2021
-exp/results/ 0.0 5 4 4 5.0 5 2022
-exp/results/ 0.008 5 4 4 1.0 5 2023
-exp/results/ 0.008 5 4 4 1.2 5 2024
-exp/results/ 0.008 5 4 4 1.5 5 2025
-exp/results/ 0.008 5 4 4 2.0 5 2026
-exp/results/ 0.008 5 4 4 3.0 5 2027
-exp/results/ 0.008 5 4 4 5.0 5 2028
-exp/results/ 0.016 5 4 4 1.0 5 2029
-exp/results/ 0.016 5 4 4 1.2 5 2030
-exp/results/ 0.016 5 4 4 1.5 5 2031
-exp/results/ 0.016 5 4 4 2.0 5 2032
-exp/results/ 0.016 5 4 4 3.0 5 2033
-exp/results/ 0.016 5 4 4 5.0 5 2034
-exp/results/ 0.024 5 4 4 1.0 5 2035
-exp/results/ 0.024 5 4 4 1.2 5 2036
-exp/results/ 0.024 5 4 4 1.5 5 2037
-exp/results/ 0.024 5 4 4 2.0 5 2038
-exp/results/ 0.024 5 4 4 3.0 5 2039
-exp/results/ 0.024 5 4 4 5.0 5 2040
-exp/results/ 0.032 5 4 4 1.0 5 2041
-exp/results/ 0.032 5 4 4 1.2 5 2042
-exp/results/ 0.032 5 4 4 1.5 5 2043
-exp/results/ 0.032 5 4 4 2.0 5 2044
-exp/results/ 0.032 5 4 4 3.0 5 2045
-exp/results/ 0.032 5 4 4 5.0 5 2046
-exp/results/ 0.04 5 4 4 1.0 5 2047
-exp/results/ 0.04 5 4 4 1.2 5 2048
-exp/results/ 0.04 5 4 4 1.5 5 2049
-exp/results/ 0.04 5 4 4 2.0 5 2050
-exp/results/ 0.04 5 4 4 3.0 5 2051
-exp/results/ 0.04 5 4 4 5.0 5 2052
-exp/results/ 0.0 5 4 6 1.0 5 2053
-exp/results/ 0.0 5 4 6 1.2 5 2054
-exp/results/ 0.0 5 4 6 1.5 5 2055
-exp/results/ 0.0 5 4 6 2.0 5 2056
-exp/results/ 0.0 5 4 6 3.0 5 2057
-exp/results/ 0.0 5 4 6 5.0 5 2058
-exp/results/ 0.008 5 4 6 1.0 5 2059
-exp/results/ 0.008 5 4 6 1.2 5 2060
-exp/results/ 0.008 5 4 6 1.5 5 2061
-exp/results/ 0.008 5 4 6 2.0 5 2062
-exp/results/ 0.008 5 4 6 3.0 5 2063
-exp/results/ 0.008 5 4 6 5.0 5 2064
-exp/results/ 0.016 5 4 6 1.0 5 2065
-exp/results/ 0.016 5 4 6 1.2 5 2066
-exp/results/ 0.016 5 4 6 1.5 5 2067
-exp/results/ 0.016 5 4 6 2.0 5 2068
-exp/results/ 0.016 5 4 6 3.0 5 2069
-exp/results/ 0.016 5 4 6 5.0 5 2070
-exp/results/ 0.024 5 4 6 1.0 5 2071
-exp/results/ 0.024 5 4 6 1.2 5 2072
-exp/results/ 0.024 5 4 6 1.5 5 2073
-exp/results/ 0.024 5 4 6 2.0 5 2074
-exp/results/ 0.024 5 4 6 3.0 5 2075
-exp/results/ 0.024 5 4 6 5.0 5 2076
-exp/results/ 0.032 5 4 6 1.0 5 2077
-exp/results/ 0.032 5 4 6 1.2 5 2078
-exp/results/ 0.032 5 4 6 1.5 5 2079
-exp/results/ 0.032 5 4 6 2.0 5 2080
+exp/results/ 0.016 5 3 22 3.0 5 1961 OK
+exp/results/ 0.016 5 3 22 5.0 5 1962 OK
+exp/results/ 0.024 5 3 22 1.0 5 1963 OK
+exp/results/ 0.024 5 3 22 1.2 5 1964 OK
+exp/results/ 0.024 5 3 22 1.5 5 1965 OK
+exp/results/ 0.024 5 3 22 2.0 5 1966 OK
+exp/results/ 0.024 5 3 22 3.0 5 1967 OK
+exp/results/ 0.024 5 3 22 5.0 5 1968 OK
+exp/results/ 0.032 5 3 22 1.0 5 1969 OK
+exp/results/ 0.032 5 3 22 1.2 5 1970 OK
+exp/results/ 0.032 5 3 22 1.5 5 1971 OK
+exp/results/ 0.032 5 3 22 2.0 5 1972 OK
+exp/results/ 0.032 5 3 22 3.0 5 1973 OK
+exp/results/ 0.032 5 3 22 5.0 5 1974 OK
+exp/results/ 0.04 5 3 22 1.0 5 1975 OK
+exp/results/ 0.04 5 3 22 1.2 5 1976 OK
+exp/results/ 0.04 5 3 22 1.5 5 1977 OK
+exp/results/ 0.04 5 3 22 2.0 5 1978 OK
+exp/results/ 0.04 5 3 22 3.0 5 1979 OK
+exp/results/ 0.04 5 3 22 5.0 5 1980 OK
+exp/results/ 0.0 5 4 2 1.0 5 1981 OK
+exp/results/ 0.0 5 4 2 1.2 5 1982 OK
+exp/results/ 0.0 5 4 2 1.5 5 1983 OK
+exp/results/ 0.0 5 4 2 2.0 5 1984 OK
+exp/results/ 0.0 5 4 2 3.0 5 1985 OK
+exp/results/ 0.0 5 4 2 5.0 5 1986 OK
+exp/results/ 0.008 5 4 2 1.0 5 1987 OK
+exp/results/ 0.008 5 4 2 1.2 5 1988 OK
+exp/results/ 0.008 5 4 2 1.5 5 1989 OK
+exp/results/ 0.008 5 4 2 2.0 5 1990 OK
+exp/results/ 0.008 5 4 2 3.0 5 1991 OK
+exp/results/ 0.008 5 4 2 5.0 5 1992 OK
+exp/results/ 0.016 5 4 2 1.0 5 1993 OK
+exp/results/ 0.016 5 4 2 1.2 5 1994 OK
+exp/results/ 0.016 5 4 2 1.5 5 1995 OK
+exp/results/ 0.016 5 4 2 2.0 5 1996 OK
+exp/results/ 0.016 5 4 2 3.0 5 1997 OK
+exp/results/ 0.016 5 4 2 5.0 5 1998 OK
+exp/results/ 0.024 5 4 2 1.0 5 1999 OK
+exp/results/ 0.024 5 4 2 1.2 5 2000 OK
+exp/results/ 0.024 5 4 2 1.5 5 2001 OK
+exp/results/ 0.024 5 4 2 2.0 5 2002 OK
+exp/results/ 0.024 5 4 2 3.0 5 2003 OK
+exp/results/ 0.024 5 4 2 5.0 5 2004 OK
+exp/results/ 0.032 5 4 2 1.0 5 2005 OK
+exp/results/ 0.032 5 4 2 1.2 5 2006 OK
+exp/results/ 0.032 5 4 2 1.5 5 2007 OK
+exp/results/ 0.032 5 4 2 2.0 5 2008 OK
+exp/results/ 0.032 5 4 2 3.0 5 2009 OK
+exp/results/ 0.032 5 4 2 5.0 5 2010 OK
+exp/results/ 0.04 5 4 2 1.0 5 2011 OK
+exp/results/ 0.04 5 4 2 1.2 5 2012 OK
+exp/results/ 0.04 5 4 2 1.5 5 2013 OK
+exp/results/ 0.04 5 4 2 2.0 5 2014 OK
+exp/results/ 0.04 5 4 2 3.0 5 2015 OK
+exp/results/ 0.04 5 4 2 5.0 5 2016 OK
+exp/results/ 0.0 5 4 4 1.0 5 2017 OK
+exp/results/ 0.0 5 4 4 1.2 5 2018 OK
+exp/results/ 0.0 5 4 4 1.5 5 2019 OK
+exp/results/ 0.0 5 4 4 2.0 5 2020 OK
+exp/results/ 0.0 5 4 4 3.0 5 2021 OK
+exp/results/ 0.0 5 4 4 5.0 5 2022 OK
+exp/results/ 0.008 5 4 4 1.0 5 2023 OK
+exp/results/ 0.008 5 4 4 1.2 5 2024 OK
+exp/results/ 0.008 5 4 4 1.5 5 2025 OK
+exp/results/ 0.008 5 4 4 2.0 5 2026 OK
+exp/results/ 0.008 5 4 4 3.0 5 2027 OK
+exp/results/ 0.008 5 4 4 5.0 5 2028 OK
+exp/results/ 0.016 5 4 4 1.0 5 2029 OK
+exp/results/ 0.016 5 4 4 1.2 5 2030 OK
+exp/results/ 0.016 5 4 4 1.5 5 2031 OK
+exp/results/ 0.016 5 4 4 2.0 5 2032 OK
+exp/results/ 0.016 5 4 4 3.0 5 2033 OK
+exp/results/ 0.016 5 4 4 5.0 5 2034 OK
+exp/results/ 0.024 5 4 4 1.0 5 2035 OK
+exp/results/ 0.024 5 4 4 1.2 5 2036 OK
+exp/results/ 0.024 5 4 4 1.5 5 2037 OK
+exp/results/ 0.024 5 4 4 2.0 5 2038 OK
+exp/results/ 0.024 5 4 4 3.0 5 2039 OK
+exp/results/ 0.024 5 4 4 5.0 5 2040 OK
+exp/results/ 0.032 5 4 4 1.0 5 2041 OK
+exp/results/ 0.032 5 4 4 1.2 5 2042 OK
+exp/results/ 0.032 5 4 4 1.5 5 2043 OK
+exp/results/ 0.032 5 4 4 2.0 5 2044 OK
+exp/results/ 0.032 5 4 4 3.0 5 2045 OK
+exp/results/ 0.032 5 4 4 5.0 5 2046 OK
+exp/results/ 0.04 5 4 4 1.0 5 2047 OK
+exp/results/ 0.04 5 4 4 1.2 5 2048 OK
+exp/results/ 0.04 5 4 4 1.5 5 2049 OK
+exp/results/ 0.04 5 4 4 2.0 5 2050 OK
+exp/results/ 0.04 5 4 4 3.0 5 2051 OK
+exp/results/ 0.04 5 4 4 5.0 5 2052 OK
+exp/results/ 0.0 5 4 6 1.0 5 2053 OK
+exp/results/ 0.0 5 4 6 1.2 5 2054 OK
+exp/results/ 0.0 5 4 6 1.5 5 2055 OK
+exp/results/ 0.0 5 4 6 2.0 5 2056 OK
+exp/results/ 0.0 5 4 6 3.0 5 2057 OK
+exp/results/ 0.0 5 4 6 5.0 5 2058 OK
+exp/results/ 0.008 5 4 6 1.0 5 2059 OK
+exp/results/ 0.008 5 4 6 1.2 5 2060 OK
+exp/results/ 0.008 5 4 6 1.5 5 2061 OK
+exp/results/ 0.008 5 4 6 2.0 5 2062 OK
+exp/results/ 0.008 5 4 6 3.0 5 2063 OK
+exp/results/ 0.008 5 4 6 5.0 5 2064 OK
+exp/results/ 0.016 5 4 6 1.0 5 2065 OK
+exp/results/ 0.016 5 4 6 1.2 5 2066 OK
+exp/results/ 0.016 5 4 6 1.5 5 2067 OK
+exp/results/ 0.016 5 4 6 2.0 5 2068 OK
+exp/results/ 0.016 5 4 6 3.0 5 2069 OK
+exp/results/ 0.016 5 4 6 5.0 5 2070 OK
+exp/results/ 0.024 5 4 6 1.0 5 2071 OK
+exp/results/ 0.024 5 4 6 1.2 5 2072 OK
+exp/results/ 0.024 5 4 6 1.5 5 2073 OK
+exp/results/ 0.024 5 4 6 2.0 5 2074 OK
+exp/results/ 0.024 5 4 6 3.0 5 2075 OK
+exp/results/ 0.024 5 4 6 5.0 5 2076 OK
+exp/results/ 0.032 5 4 6 1.0 5 2077 OK
+exp/results/ 0.032 5 4 6 1.2 5 2078 OK
+exp/results/ 0.032 5 4 6 1.5 5 2079 OK
+exp/results/ 0.032 5 4 6 2.0 5 2080 OK
 exp/results/ 0.032 5 4 6 3.0 5 2081
 exp/results/ 0.032 5 4 6 5.0 5 2082
 exp/results/ 0.04 5 4 6 1.0 5 2083
