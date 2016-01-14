@@ -958,46 +958,46 @@ exp/results/ 0.008 5 3 20 2 5 1918 OK
 exp/results/ 0.008 5 3 20 3 5 1919 OK
 exp/results/ 0.008 5 3 20 5 5 1920 OK
 exp/results/ 0.016 5 3 20 1 5 1921 OK
-exp/results/ 0.016 5 3 20 1.2 5 1922
-exp/results/ 0.016 5 3 20 1.5 5 1923
-exp/results/ 0.024 5 3 20 1.2 5 1928
-exp/results/ 0.024 5 3 20 5 5 1932
-exp/results/ 0.032 5 3 20 1.2 5 1934
-exp/results/ 0.032 5 3 20 1.5 5 1935
-exp/results/ 0.032 5 3 20 2 5 1936
-exp/results/ 0.032 5 3 20 5 5 1938
-exp/results/ 0.04 5 3 20 1.2 5 1940
-exp/results/ 0.04 5 3 20 1.5 5 1941
-exp/results/ 0.04 5 3 20 3 5 1943
-exp/results/ 0 5 3 22 1.2 5 1946
-exp/results/ 0 5 3 22 1.5 5 1947
-exp/results/ 0 5 3 22 5 5 1950
-exp/results/ 0.008 5 3 22 1.5 5 1953
-exp/results/ 0.008 5 3 22 3 5 1955
-exp/results/ 0.008 5 3 22 5 5 1956
-exp/results/ 0.016 5 3 22 5 5 1962
-exp/results/ 0.032 5 3 22 2 5 1972
-exp/results/ 0.032 5 3 22 3 5 1973
-exp/results/ 0.04 5 4 2 1 5 2011
-exp/results/ 0.04 5 4 4 1 5 2047
-exp/results/ 0.04 5 4 4 1.2 5 2048
-exp/results/ 0.04 5 4 4 1.5 5 2049
-exp/results/ 0.04 5 4 4 2 5 2050
-exp/results/ 0.04 5 4 4 3 5 2051
-exp/results/ 0.04 5 4 4 5 5 2052
-exp/results/ 0.04 5 4 8 1.5 5 2121
-exp/results/ 0.04 5 4 8 2 5 2122
-exp/results/ 0.04 5 4 8 3 5 2123
-exp/results/ 0.04 5 4 8 5 5 2124
-exp/results/ 0.04 5 4 10 1 5 2155
-exp/results/ 0.04 5 4 10 1.2 5 2156
-exp/results/ 0.04 5 4 10 2 5 2158
-exp/results/ 0.04 5 4 12 1 5 2191
-exp/results/ 0.04 5 4 12 1.2 5 2192
-exp/results/ 0.04 5 4 12 1.5 5 2193
-exp/results/ 0.04 5 4 12 2 5 2194
-exp/results/ 0.04 5 4 12 3 5 2195
-exp/results/ 0.04 5 4 12 5 5 2196
+exp/results/ 0.016 5 3 20 1.2 5 1922 OK
+exp/results/ 0.016 5 3 20 1.5 5 1923 OK
+exp/results/ 0.024 5 3 20 1.2 5 1928 OK
+exp/results/ 0.024 5 3 20 5 5 1932 OK
+exp/results/ 0.032 5 3 20 1.2 5 1934 OK
+exp/results/ 0.032 5 3 20 1.5 5 1935 OK
+exp/results/ 0.032 5 3 20 2 5 1936 OK
+exp/results/ 0.032 5 3 20 5 5 1938 OK
+exp/results/ 0.04 5 3 20 1.2 5 1940 OK
+exp/results/ 0.04 5 3 20 1.5 5 1941 OK
+exp/results/ 0.04 5 3 20 3 5 1943 OK
+exp/results/ 0 5 3 22 1.2 5 1946 OK
+exp/results/ 0 5 3 22 1.5 5 1947 OK
+exp/results/ 0 5 3 22 5 5 1950 OK
+exp/results/ 0.008 5 3 22 1.5 5 1953 OK
+exp/results/ 0.008 5 3 22 3 5 1955 OK
+exp/results/ 0.008 5 3 22 5 5 1956 OK
+exp/results/ 0.016 5 3 22 5 5 1962 OK
+exp/results/ 0.032 5 3 22 2 5 1972 OK
+exp/results/ 0.032 5 3 22 3 5 1973 OK
+exp/results/ 0.04 5 4 2 1 5 2011 OK
+exp/results/ 0.04 5 4 4 1 5 2047 OK
+exp/results/ 0.04 5 4 4 1.2 5 2048 OK
+exp/results/ 0.04 5 4 4 1.5 5 2049 OK
+exp/results/ 0.04 5 4 4 2 5 2050 OK
+exp/results/ 0.04 5 4 4 3 5 2051 OK
+exp/results/ 0.04 5 4 4 5 5 2052 OK
+exp/results/ 0.04 5 4 8 1.5 5 2121 OK
+exp/results/ 0.04 5 4 8 2 5 2122 OK
+exp/results/ 0.04 5 4 8 3 5 2123 OK
+exp/results/ 0.04 5 4 8 5 5 2124 OK
+exp/results/ 0.04 5 4 10 1 5 2155 OK
+exp/results/ 0.04 5 4 10 1.2 5 2156 OK
+exp/results/ 0.04 5 4 10 2 5 2158 OK
+exp/results/ 0.04 5 4 12 1 5 2191 OK
+exp/results/ 0.04 5 4 12 1.2 5 2192 OK
+exp/results/ 0.04 5 4 12 1.5 5 2193 OK
+exp/results/ 0.04 5 4 12 2 5 2194 OK
+exp/results/ 0.04 5 4 12 3 5 2195 OK
+exp/results/ 0.04 5 4 12 5 5 2196 OK
 exp/results/ 0.04 5 4 14 1 5 2227
 exp/results/ 0.04 5 4 14 1.2 5 2228
 exp/results/ 0.04 5 4 14 1.5 5 2229
