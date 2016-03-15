@@ -2008,16 +2008,16 @@ exp/results/ 0.04 7 2 14 1.2 5 5000  OK
 exp/results/ 0.04 7 2 14 1.5 5 5001  OK
 exp/results/ 0.04 7 2 14 2 5 5002  OK
 exp/results/ 0.04 7 2 14 3 5 5003  OK
-exp/results/ 0.04 7 2 14 5 5 5004 
-exp/results/ 0 7 2 16 1 5 5005 
-exp/results/ 0 7 2 16 1.2 5 5006 
-exp/results/ 0 7 2 16 1.5 5 5007 
-exp/results/ 0 7 2 16 2 5 5008 
-exp/results/ 0 7 2 16 3 5 5009 
-exp/results/ 0 7 2 16 5 5 5010 
-exp/results/ 0.008 7 2 16 1 5 5011 
-exp/results/ 0.008 7 2 16 1.2 5 5012 
-exp/results/ 0.008 7 2 16 1.5 5 5013 
+exp/results/ 0.04 7 2 14 5 5 5004  OK
+exp/results/ 0 7 2 16 1 5 5005  OK
+exp/results/ 0 7 2 16 1.2 5 5006  OK
+exp/results/ 0 7 2 16 1.5 5 5007  OK
+exp/results/ 0 7 2 16 2 5 5008  OK
+exp/results/ 0 7 2 16 3 5 5009  OK
+exp/results/ 0 7 2 16 5 5 5010  OK
+exp/results/ 0.008 7 2 16 1 5 5011  OK
+exp/results/ 0.008 7 2 16 1.2 5 5012  OK
+exp/results/ 0.008 7 2 16 1.5 5 5013  OK
 exp/results/ 0.008 7 2 16 2 5 5014 
 exp/results/ 0.008 7 2 16 3 5 5015 
 exp/results/ 0.008 7 2 16 5 5 5016 
